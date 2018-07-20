@@ -45,6 +45,10 @@ page_sections:
   navigation:
   - link_text: blog
     link_url: lksdjf
+- template: signup-bar
+  block: cta-bar
+  content: slkjskjf
+  email_recipient: budparr@gmail.com
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -82,9 +86,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world!
-- template: signup-bar
-  block: cta-bar
-  content: slkjskjf
-  email_recipient: budparr@gmail.com
 
 ---
