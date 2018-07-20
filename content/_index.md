@@ -42,6 +42,9 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
+  navigation:
+  - link_text: blog
+    link_url: lksdjf
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -62,6 +65,9 @@ page_sections:
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
+  navigation:
+  - link_text: ''
+    link_url: ''
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
